@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
+  <a href="[https://t.me/CodeXBotz](https://t.me/sonali00000)">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/CodeXBotz">
@@ -17,7 +17,7 @@
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
+  <a href="[https://github.com/CodeXBotz/File-Sharing-Bot](https://github.com/OFFCode032/File_Sharing_Botx)/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group]([https://www.telegram.dog/codexbotzsupport](https://t.me/missqueenbotxchat)) For Support/Assistance And Our [Channel]([https://www.telegram.dog/codexbotz](https://t.me/missqueenbotx)) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
@@ -147,7 +147,7 @@ Report Bugs, Give Feature Requests There..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT]([https://github.com/CodeXBotz/File-Sharing-Bot/](https://github.com/OFFCode032/File_Sharing_Botx) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
